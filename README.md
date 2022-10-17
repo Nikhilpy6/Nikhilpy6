@@ -4,7 +4,7 @@
 **Nikhilpy6/Nikhilpy6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+'
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center"> HI,there, I am Nikhil👋</h1>
+🌱 I’m currently learning <strong> Machine learning and its algorithms </strong>
+📫 How to reach me:<a href ="linkedin.com/in/nikhil-gupta-6b5711208" target= "_blank"> Nikhil Gupta</a>
