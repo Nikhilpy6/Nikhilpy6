@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 <h1 align="center"> HI,there, I am Nikhil👋</h1>
 🌱 I’m currently learning <strong> Machine learning and its algorithms </strong>
-📫 How to reach me:<a href ="linkedin.com/in/nikhil-gupta-6b5711208" target= "_blank"> Nikhil Gupta</a>
+📫 How to reach me:<a href ="https://www.linkedin.com/mwlite/in/nikhil-gupta-6b5711208" target= "_blank"> Nikhil Gupta</a>
