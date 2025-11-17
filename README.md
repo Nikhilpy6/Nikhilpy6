@@ -22,18 +22,19 @@ I love working on:
 ---
 
 ## 🏆 Badges & Certifications  
+s  
 
-<p align="left">
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/NikhilGupta-2953/E17F1D1DBD03A1FD?sharingId=3B48CBE8F763C584" target="_blank">
   <img src="https://img.shields.io/badge/Microsoft%20Certified-Security%20Operations%20Analyst-blue?logo=microsoft&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Certification-Foundational%20C%23-orange?logo=dotnet&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GATE-2024%20Qualified-success?style=for-the-badge" />
-</p>
+</a>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Problem%20Solving-6*%20(HackerRank)-brightgreen?logo=hackerrank&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CodeChef-3*-%23d94c27?logo=codechef&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LeetCode-500+%20Problems-%23ffa116?logo=leetcode&style=for-the-badge" />
-</p>
+<a href="https://freecodecamp.org/certification/fcc54d33af8-2448-43b5-80ff-6cc9ff49fc4a/foundational-c-sharp-with-microsoft" target="_blank">
+  <img src="https://img.shields.io/badge/Foundational%20C%23%20with%20Microsoft-Orange?logo=dotnet&style=for-the-badge" />
+</a>
+
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/GATE-2024%20Qualified-success?style=for-the-badge" />
+</a>
 
 ---
 
