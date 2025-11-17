@@ -65,36 +65,78 @@ s
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Languages & Technologies
 
-### **Languages**
+<!-- Languages -->
 <p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank">
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  </a>
+
+  <a href="https://dotnet.microsoft.com/" target="_blank">
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  </a>
+
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  </a>
+
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=openjdk&logoColor=white" />
+  </a>
 </p>
 
-### **Cloud & AI**
+<!-- Cloud & AI -->
 <p>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure%20OpenAI-0089D6?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cognitive%20Services-0057ff?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <a href="https://azure.microsoft.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  </a>
+
+  <a href="https://learn.microsoft.com/azure/ai-services/openai/" target="_blank">
+    <img src="https://img.shields.io/badge/Azure%20OpenAI-0089D6?style=for-the-badge&logo=openai&logoColor=white" />
+  </a>
+
+  <a href="https://learn.microsoft.com/azure/cognitive-services/" target="_blank">
+    <img src="https://img.shields.io/badge/Cognitive%20Services-0057ff?style=for-the-badge&logo=microsoft&logoColor=white" />
+  </a>
 </p>
 
-### **Databases**
+<!-- Databases -->
 <p>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cosmos%20DB-006FCB?style=for-the-badge&logo=azurecosmosdb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005E87?style=for-the-badge&logo=mysql&logoColor=white" />
+  <a href="https://www.microsoft.com/sql-server" target="_blank">
+    <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  </a>
+
+  <a href="https://learn.microsoft.com/azure/cosmos-db/" target="_blank">
+    <img src="https://img.shields.io/badge/Cosmos%20DB-006FCB?style=for-the-badge&logo=azurecosmosdb&logoColor=white" />
+  </a>
+
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MySQL-005E87?style=for-the-badge&logo=mysql&logoColor=white" />
+  </a>
 </p>
 
-### **Libraries & Tools**
+<!-- Tools -->
 <p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn" />
-  <img src="https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" />
+  </a>
+
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy" />
+  </a>
+
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn" />
+  </a>
+
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white" />
+  </a>
+
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  </a>
 </p>
 
 ---
